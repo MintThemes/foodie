@@ -18,7 +18,6 @@
 		<h1 class="entry-title"><?php the_title(); ?></h1>
 
 		<div class="entry-meta">
-			<?php foodie_posted_on( 'page' ); ?>
 			<?php edit_post_link( __( 'Edit', 'foodie' ), '<span class="sep"> | </span> <span class="edit-link">', '</span>' ); ?>
 		</div><!-- .entry-meta -->
 	</header><!-- .entry-header -->
