@@ -1,5 +1,8 @@
 *** Foodie Changelog ***
 
+2014.01.21 - version 1.0.4
+ * Added styles for responsive in order to fix the ingredient amount overlapping with the ingredient text on smaller viewports
+
 2013.12.13 - version 1.0.3
  * Removed date from pages
 
