@@ -1,0 +1,438 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Foodie\n"
+"POT-Creation-Date: 2014-02-10 16:23-0500\n"
+"PO-Revision-Date: 2014-02-10 16:45-0500\n"
+"Last-Translator: \n"
+"Language-Team: Mint Themes <support@mintthemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext;_n;__ngettext_noop;_n_noop;_x;_nx;"
+"_nx;_ex;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;esc_html_x;_c;"
+"_nc\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:12
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:13
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../404.php:26
+msgid "Most Used Categories"
+msgstr ""
+
+#: ../archive.php:20
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../archive.php:23
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../archive.php:30
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../archive.php:38
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:41
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:44
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:47
+msgid "Archives"
+msgstr ""
+
+#: ../comments.php:31
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:36
+#, php-format
+msgid "<span>Rate and Comment</span> <small>%d Replies</small>"
+msgstr ""
+
+#: ../comments.php:38
+#, php-format
+msgid "<span>Comment</span> <small>%d Replies</small>"
+msgstr ""
+
+#: ../comments.php:41
+msgid "Your Information"
+msgstr ""
+
+#: ../comments.php:43 ../inc/modules/ingredients/metabox.php:55
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:44
+msgid "Your Name..."
+msgstr ""
+
+#: ../comments.php:47
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:48
+msgid "Email Address..."
+msgstr ""
+
+#: ../comments.php:51
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:52
+msgid "http:// (optional)"
+msgstr ""
+
+#: ../comments.php:63
+msgid "What did you think?"
+msgstr ""
+
+#: ../comments.php:80
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:81
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:82
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../content-archive.php:14 ../content-gallery.php:31 ../content-page.php:14
+#: ../content-single.php:34 ../content.php:23 ../content.php:27
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../content-gallery.php:39 ../content.php:35
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content-page.php:21 ../content-single.php:42 ../image.php:36
+msgid "Edit"
+msgstr ""
+
+#: ../content-page.php:30 ../content-single.php:51
+msgid "Pages"
+msgstr ""
+
+#: ../functions.php:113
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:182
+msgid "Sidebar"
+msgstr ""
+
+#: ../header.php:33
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../image.php:26
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-"
+"size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s"
+"\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: ../image.php:91
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../image.php:92
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../inc/modules/ingredients/metabox.php:16
+#: ../inc/modules/ingredients/shortcodes.php:31
+msgid "Ingredients"
+msgstr ""
+
+#: ../inc/modules/ingredients/metabox.php:43
+msgid "Number of Servings:"
+msgstr ""
+
+#: ../inc/modules/ingredients/metabox.php:46
+#, php-format
+msgid "Price of Ingredients (%s):"
+msgstr ""
+
+#: ../inc/modules/ingredients/metabox.php:50
+msgid "Add Ingredients:"
+msgstr ""
+
+#: ../inc/modules/ingredients/metabox.php:56
+msgid "Description"
+msgstr ""
+
+#: ../inc/modules/ingredients/metabox.php:57
+msgid "Amount"
+msgstr ""
+
+#: ../inc/modules/ingredients/metabox.php:97
+msgid "Add or Update Ingredients"
+msgstr ""
+
+#: ../inc/modules/ingredients/metabox.php:105
+msgid ""
+"Use the <code>[ingredients]</code> shortcode anywhere in the post body to "
+"display the list of ingredients."
+msgstr ""
+
+#: ../inc/modules/ratings/ratings.php:38
+msgid "Your Vote:"
+msgstr ""
+
+#: ../inc/modules/ratings/ratings.php:45
+msgid "Average:"
+msgstr ""
+
+#: ../inc/modules/videos/metabox.php:15 ../inc/modules/videos/metabox.php:32
+msgid "Video"
+msgstr ""
+
+#: ../inc/modules/videos/metabox.php:35
+#, php-format
+msgid ""
+"For <a href=\"%s\">oEmbed-enabled</a> video sites, simply paste the URL of "
+"the video above. Otherwise, paste the HTML embed code, making sure it has a "
+"width of <code>750px</code>."
+msgstr ""
+
+#: ../inc/template-tags.php:31 ../inc/template-tags.php:52
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:33
+msgid "&larr;"
+msgstr ""
+
+#: ../inc/template-tags.php:34
+msgid "&rarr;"
+msgstr ""
+
+#: ../inc/template-tags.php:55
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../inc/template-tags.php:59
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:84
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:84
+msgid "(Edit)"
+msgstr ""
+
+#: ../inc/template-tags.php:93
+#, php-format
+msgid "%1$s <time pubdate datetime=\"%3$s\">&mdash;%2$s ago</time>"
+msgstr ""
+
+#: ../inc/template-tags.php:98
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/template-tags.php:124
+#, php-format
+msgid ""
+"<a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" "
+"datetime=\"%3$s\" pubdate>%4$s</time></a> %5$s"
+msgstr ""
+
+#: ../inc/template-tags.php:129
+#, php-format
+msgid "- Posted in %1$s"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:33
+msgid "General"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:41
+msgid "Display Vanity Metrics"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:50
+msgid "Use Webfonts"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:68
+msgid "Use Ingredients Builder"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:77
+msgid "Use Video Embeds"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:86
+msgid "Allow Post Ratings"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:109
+msgid "Measurement System"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:118
+msgid "Currency"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:150
+#: ../inc/theme-options/theme-options.php:151
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:214
+msgid "Twitter and Facebook metrics to the right of the copyright."
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:229
+msgid "Add even more style by loading some Google Web Fonts."
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:246
+msgid "Easily build and embed beautiful ingredient lists."
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:261
+#, php-format
+msgid ""
+"<a href=\"%s\">oEmbed</a> powered video embeds that make adding videos a one-"
+"step process."
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:276
+#, php-format
+msgid ""
+"Make sure to download, install, and activate the <a href=\"%s\">Post "
+"Ratings</a> plugin."
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:292
+msgid "When using the ingredient builder, use"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:298
+msgid "units."
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:312
+msgid "When determining the price of ingredients, display total in"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:336
+#, php-format
+msgid "%s Theme Options"
+msgstr ""
+
+#: ../inc/widgets/cta-box.php:21
+msgid ""
+"Use this widget to list your recent Aside, Status, Quote, and Link posts"
+msgstr ""
+
+#: ../inc/widgets/cta-box.php:24
+msgid "Foodie Call to Action Box"
+msgstr ""
+
+#: ../inc/widgets/cta-box.php:112
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widgets/cta-box.php:117
+msgid "Subtitle:"
+msgstr ""
+
+#: ../inc/widgets/cta-box.php:122
+msgid "Link To:"
+msgstr ""
+
+#: ../inc/widgets/cta-box.php:127
+msgid "Icon URL:"
+msgstr ""
+
+#: ../inc/widgets/cta-box.php:132
+msgid "Background Color:"
+msgstr ""
+
+#: ../no-results.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: ../no-results.php:16
+msgid "Aww, that&#39;s lame!"
+msgstr ""
+
+#: ../no-results.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../no-results.php:26
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../no-results.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../post-ratings-control.php:52
+#, php-format
+msgid "Give %1$d out of %2$d stars"
+msgstr ""
+
+#: ../search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:10 ../searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: ../searchform.php:11
+msgid "Search &hellip;"
+msgstr ""
+
+#: ../sidebar.php:26
+msgid "Call to Action Widget"
+msgstr ""
+
+#: ../sidebar.php:27
+msgid "Click to add your own boxes"
+msgstr ""

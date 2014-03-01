@@ -1,5 +1,8 @@
 *** Foodie Changelog ***
 
+2014.03.01 - version 1.0.5
+ * Removed auto width on images. Was stretching them needlessly and wrecking layouts.
+
 2014.01.21 - version 1.0.4
  * Added styles for responsive in order to fix the ingredient amount overlapping with the ingredient text on smaller viewports
 
