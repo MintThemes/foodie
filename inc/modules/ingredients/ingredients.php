@@ -68,6 +68,10 @@ function foodie_units( $system = null ) {
 		
 	if ( 'english' == $system )
 		return apply_filters( 'foodie_units_english', array( 
+			'' => array(
+				'unit'   => '',
+				'plural' => ''
+			),
 			'unit' => array(
 				'unit'   => 'unit',
 				'plural' => 'units'

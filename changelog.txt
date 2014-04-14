@@ -1,5 +1,8 @@
 *** Foodie Changelog ***
 
+2014.04.14 - version 1.0.6
+ * Added blank unit for ingredients so people can use 3-4 “Carrots” instead of “Carrot Units”
+
 2014.03.01 - version 1.0.5
  * Removed auto width on images. Was stretching them needlessly and wrecking layouts.
 
